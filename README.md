@@ -1,5 +1,5 @@
 # VIRGO
-Python 3.10 or Later conversion code of Virgo: A Versatile Spectrometer for Radio Astronomy
+** Python 3.10 or Later conversion code of Virgo ** A Versatile Spectrometer for Radio Astronomy
 
 Original code come from https://github.com/0xCoto/Virgo
 
